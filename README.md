@@ -14,6 +14,8 @@
 | expect     | 实现自动和交互式任务进行通信，部署脚本需要用到 |                   |
 | postgresql | 数据库，部署脚本需要用到                       | V 9.6             |
 | docker     | 容器引擎，系统的应用服务都是基于docker         | Docker CE 17.03.2 |
+| oracle客户端     | oracle客户端         | 12c |
+| python3.6     | python3.6以及相关依赖         | 3.6 |
 
 **Docker镜像**
 
